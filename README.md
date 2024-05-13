@@ -6,7 +6,7 @@
 ![baidubetdiskplugin_1](./Other/Screenshots/baidubetdiskplugin_1.png)
 ### 说明
 * **20191118更新，去掉自动检查更新功能。由于个人精力和能力有限，此项目不再更新支持新版网盘。如使用，请下载2.2.2版本 [官方下载地址][1]。**
-
+[下载地址](https://raw.githubusercontent.com/danielgzd/BaiduNetdiskPlugin-macOS/master/BaiduNetdisk_mac_2.2.2.dmg)
 * **连续下载10G数据后，会被限制速度到单文件20kb。所以，这个补丁偶尔用用就行，别一直用。**
 
 * **免责声明：本项目旨在学习macOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。**
